@@ -1,7 +1,10 @@
 # ethereum-ipfs-react
 Integrate an Ethereum dApp with IPFS and React (front-end)
 
-##What is it?
+## What is it?
+
+![alt text](https://github.com/rahul-ki/ethereum-ipfs-react/blob/master/app.JPG)
+
 Storing data on a blockchain is very very expensive. So what if I love decentralization, and want to preserve a document? IN comes IPFS! A P2P distributed web, where you can store your files.
 Storing anything in IPFS returns a hash (that is the location of the file). Now I took this hash and put it on the ethereum blockchain, so now the file has been stored in a trustworthy manner in the cheapest way!
 
